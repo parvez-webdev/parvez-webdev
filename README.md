@@ -15,7 +15,7 @@
   <a href="mailto:parvezalam.web@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://parvez-webdev.github.io/sultanlux/">
+  <a href="https://parvez-webdev.github.io/ecobazer/">
     <img src="https://img.shields.io/badge/Portfolio-Sultan%20Lux-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
@@ -74,13 +74,13 @@ continuously improving my skills by building real-world projects.
 
 <div align="center">
 
-### ⌚ Sultan Lux
+### ⌚ EcoBazer
 
-**Premium Luxury Watch E-Commerce Website**
+**Premium E-Commerce Website**
 
 </div>
 
-**Sultan Lux** is a modern luxury watch e-commerce website focused
+**EcoBazer** is a modern luxury watch e-commerce website focused
 on premium design, clean layouts, responsive experiences and
 easy navigation.
 
@@ -99,11 +99,11 @@ easy navigation.
 
 <div align="center">
 
-<a href="https://parvez-webdev.github.io/sultanlux/">
+<a href="https://parvez-webdev.github.io/ecobazer/">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-Sultan_Lux-0e75b6?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/parvez-webdev/sultanlux">
+<a href="https://parvez-webdev.github.io/ecobazer/">
   <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -183,7 +183,7 @@ development skills.
   <img src="https://img.shields.io/badge/GitHub-Parvez--WebDev-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://parvez-webdev.github.io/sultanlux/">
+<a href="https://parvez-webdev.github.io/ecobazer/">
   <img src="https://img.shields.io/badge/Portfolio-Sultan_Lux-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
