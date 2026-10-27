@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://parvez-webdev.github.io/ecobazer/">
-    <img src="https://img.shields.io/badge/Portfolio-Sultan%20Lux-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-EcoBazer%20-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@ continuously improving my skills by building real-world projects.
 
 <div align="center">
 
-### ⌚ EcoBazer
+### EcoBazer
 
 **Premium E-Commerce Website**
 
@@ -100,7 +100,7 @@ easy navigation.
 <div align="center">
 
 <a href="https://parvez-webdev.github.io/ecobazer/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-Sultan_Lux-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-EcoBazer-0e75b6?style=for-the-badge" />
 </a>
 
 <a href="https://parvez-webdev.github.io/ecobazer/">
